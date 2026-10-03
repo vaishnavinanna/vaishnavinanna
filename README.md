@@ -56,16 +56,6 @@ Backend Software Engineer with **2 years of experience** building and maintainin
 - Built scalable services using both server-based and serverless architectures
 - Handled production deployments, migrations, debugging and issue resolution
 - Collaborated with frontend developers for smooth API integration
-
----
-
-## 🚀 Featured Projects
-
-### 📱 UTEC by UltraTech &nbsp;·&nbsp; *May 2025 – Present*
-Serverless backend for Android and iOS applications.
-
-**Stack:** `Node.js` `AWS Lambda` `API Gateway` `MySQL` `MongoDB` `Athena` `S3` `SQS` `CloudWatch` `JWT` `CleverTap`
-
 - Built REST APIs with JWT auth, request validation and error handling
 - Implemented a **single-device login** mechanism that invalidates the previous session on a new login
 - Secured open endpoints with **x-api-key** authentication
@@ -74,15 +64,6 @@ Serverless backend for Android and iOS applications.
 - Contributed to application and data migration, including validation and post-migration verification
 - Used **CloudWatch** for logging, monitoring and production troubleshooting
 - Integrated **CleverTap** events to trigger app rating/review prompts
-
-### 🏠 Purvankura &nbsp;·&nbsp; *Dec 2024 – Apr 2025*
-Backend for a real-estate application.
-
-**Stack:** `NestJS` `TypeScript` `React.js` `MySQL` `TypeORM` `Sequelize`
-
-- Built backend APIs with NestJS and TypeScript
-- Implemented dynamic pricing and cost-estimation modules
-- Integrated APIs with a React.js frontend
 
 ---
 
